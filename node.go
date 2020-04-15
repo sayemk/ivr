@@ -67,7 +67,7 @@ type Node struct {
 }
 /*
 * New Node creation
-* @return Node ptr
+* @return Node ptr 
 */
 
 func NewNode(client *AgiClient) *Node {
